@@ -130,7 +130,6 @@ class Pricing extends Component {
             <b>
               <h3>Features include:</h3>
             </b>
-
             <ul>
               <li>On-premise instances for use behind your firewall</li>
               <li>Active Directory authentication</li>
