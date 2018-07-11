@@ -1,4 +1,5 @@
 import Home from "./pages/home/Home";
+import Pricing from "./pages/home/pricing/Pricing";
 
 export default [
   {
@@ -14,7 +15,7 @@ export default [
   {
     name: "Pricing",
     link: "/#pricing",
-    component: ""
+    component: Pricing
   },
   {
     name: "Features",

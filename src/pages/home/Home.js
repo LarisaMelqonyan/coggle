@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 import "./Home.css";
+import Pricing from "./pricing/Pricing";
 
 class Home extends Component {
   render() {
@@ -38,6 +39,7 @@ class Home extends Component {
             </div>
           </div>
         </div>
+        <Pricing />
       </div>
     );
   }
